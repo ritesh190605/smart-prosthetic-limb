@@ -30,6 +30,8 @@ The system operates through a closed-loop architecture designed for minimal late
 * Embedded C/C++ (Arduino IDE)
 * Tinkercad / Fusion 360 (for simulation and mechanical design)
 
+## Protype Link
+[TinkerCad demonstration of the prosthetic hand](https://www.tinkercad.com/things/jHyLoCqrYwH-mp1)
 ## Future Enhancements
 Future iterations of this project plan to implement:
 * **AI-Based Adaptive Grasp:** Utilizing machine learning to predict user intent and adapt grip strength based on an object's shape and fragility.
