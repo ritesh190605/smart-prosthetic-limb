@@ -6,7 +6,7 @@ This project aims to develop a cost-effective, multi-sensor prosthetic limb, int
 ## Circuit Diagram
 Below is the circuit architecture showing the integration of the Arduino Uno, flex sensors, and servo motors.
 
-![Circuit Diagram](Screenshot%202025-10-12%20at%2010.01.16%E2%80%AFPM.jpg)
+![Circuit Diagram](https://github.com/ritesh190605/smart-prosthetic-limb/blob/ac66cbc456dcf106d1d14c1136eb9886e71c8dae/circuit_diagram.png)
 
 ## System Workflow
 The system operates through a closed-loop architecture designed for minimal latency (below 100ms):
