@@ -21,10 +21,10 @@ The system operates through a closed-loop architecture designed for minimal late
 * MyoWare EMG Sensor
 * Flex Sensors
 * Servo Motors
-* Force Sensitive Resistors (FSRs) & Vibration Coin Motors
+* Force Sensitive Resistors (FSRs) 
 * Li-ion Battery
 * 3D-Printed Socket/Frame
-* Breadboard, Resistors, and Jumper Wires
+* Breadboard, Resistors, and Jumper Wires 
 
 ## Software Requirements
 * Embedded C/C++ (Arduino IDE)
