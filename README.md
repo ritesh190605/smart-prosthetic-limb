@@ -25,7 +25,7 @@ The system operates through a closed-loop architecture designed for minimal late
 * Li-ion Battery
 * 3D-Printed Socket/Frame
 * Breadboard, Resistors, and Jumper Wires 
- 
+  
 ## Software Requirements
 * Embedded C/C++ (Arduino IDE)
 * Tinkercad / Fusion 360 (for simulation and mechanical design)
