@@ -16,7 +16,7 @@ The system operates through a closed-loop architecture designed for minimal late
 * **Actuation (Motor Control Module):** Five servo motors (one per finger) receive PWM signals from the Arduino to mimic natural, proportional finger movements.
 * **Feedback (Grip & Haptic Modules):** Force Sensitive Resistors (FSRs) measure the force applied by each finger to prevent excessive grip. These grip values are converted into vibration signals via coin motors placed in the limb socket to directly stimulate the user's residual limb, successfully simulating the sensation of touch.
 
-## Hardware Requirements
+## Hardware Requirements        
 * Arduino Uno R3
 * MyoWare EMG Sensor
 * Flex Sensors
