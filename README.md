@@ -11,7 +11,7 @@ Below is the circuit architecture showing the integration of the Arduino Uno, fl
 ## System Workflow
 The system operates through a closed-loop architecture designed for minimal latency (below 100ms):
 
-* **Sensing (EMG & Flex Sensing Module):** Captures user muscle activity or finger movement intent. Flex sensors detect the bending of fingers, creating a variable voltage read by the Arduino.
+* **Sensing (EMG & Flex Sensing Module):** Captures user muscle activity or finger movement intent. Flex sensors detect the bending of fingers, creating a variable voltage read by the Arduino. 
 * **Processing:** An Arduino Uno R3 acts as the central controller, reading input signals, mapping the filtered sensor values, and executing commands. 
 * **Actuation (Motor Control Module):** Five servo motors (one per finger) receive PWM signals from the Arduino to mimic natural, proportional finger movements.
 * **Feedback (Grip & Haptic Modules):** Force Sensitive Resistors (FSRs) measure the force applied by each finger to prevent excessive grip. These grip values are converted into vibration signals via coin motors placed in the limb socket to directly stimulate the user's residual limb, successfully simulating the sensation of touch.
